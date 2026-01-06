@@ -9,4 +9,4 @@ def area(widht,height):
 
 area_t, area_r = area(widht,height)
 print (f"พื้นที่สามเหลี่ยม: {area_t}")
-print (f"พื้นที่สี่เหลี่ยม: {area_r}")
+print (f"พื้นที่สี่เหลี่ยมผืนผ้า: {area_r}")
